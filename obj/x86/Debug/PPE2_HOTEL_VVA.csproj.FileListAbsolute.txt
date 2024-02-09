@@ -1,0 +1,12 @@
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\bin\Debug\PPE2_HOTEL_VVA.exe.config
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\bin\Debug\PPE2_HOTEL_VVA.exe
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\bin\Debug\PPE2_HOTEL_VVA.pdb
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\bin\Debug\mysql.data.dll
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\obj\x86\Debug\PPE2_HOTEL_VVA.FormConnexion.resources
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\obj\x86\Debug\PPE2_HOTEL_VVA.Properties.Resources.resources
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\obj\x86\Debug\PPE2_HOTEL_VVA.csproj.GenerateResource.Cache
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\obj\x86\Debug\PPE2_HOTEL_VVA.exe
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\obj\x86\Debug\PPE2_HOTEL_VVA.pdb
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\obj\x86\Debug\PPE2_HOTEL_VVA.FormReservation.resources
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\obj\x86\Debug\PPE2_HOTEL_VVA.FormMesReservations.resources
+C:\Users\Dylan\Desktop\PPE2_HOTEL_VVA\PPE2_HOTEL_VVA\obj\x86\Debug\PPE2_HOTEL_VVA.FormAdmin.resources
